@@ -48,6 +48,7 @@ android {
         implementation 'com.google.android.exoplayer:exoplayer-hls:2.14.1'
         implementation 'com.google.android.exoplayer:exoplayer-dash:2.14.1'
         implementation 'com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1'
+        implementation 'com.google.android.exoplayer:extension-rtmp:2.14.1'
         testImplementation 'junit:junit:4.12'
         testImplementation 'org.mockito:mockito-inline:3.9.0'
     }
